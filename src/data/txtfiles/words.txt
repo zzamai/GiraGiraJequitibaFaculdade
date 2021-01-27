@@ -1,0 +1,71 @@
+category;words
+Cores;azul
+Cores;roxo
+Cores;amarelo
+Cores;laranja
+Cores;vermelho
+Cores;verde
+Cores;rosa
+Cores;anil
+Cores;magenta
+Cores;preto
+Comidas;pão
+Comidas;carne
+Comidas;arroz
+Comidas;salada
+Comidas;lasanha
+Comidas;macarrão
+Comidas;banoffe
+Comidas;pavê
+Comidas;aligot
+Comidas;batata frita
+Países;brasil
+Países;canadá
+Países;argentina
+Países;japão
+Países;coréia do sul
+Países;madagascar
+Países;russia
+Países;cuba
+Países;estados unidos
+Países;itália
+Filmes;joker
+Filmes;avatar
+Filmes;clube da luta
+Filmes;os vingadores
+Filmes;as viagens de chihiro
+Filmes;corra
+Filmes;kung fu panda
+Filmes;bastardos inglórios
+Filmes;titanic
+Filmes;karate kid
+Jogos;runescape
+Jogos;combat arms
+Jogos;point blank
+Jogos;grand chase
+Jogos;league of legends
+Jogos;mario kart
+Jogos;crash
+Jogos;gta
+Jogos;bomberman
+Jogos;god of war
+Séries;friends
+Séries;vikings
+Séries;daybreak
+Séries;hannibal
+Séries;breaking bad
+Séries;la casa de papel
+Séries;vis a vis
+Séries;the flash
+Séries;arrow
+Séries;desencantados
+Animes;bleach
+Animes;haikyuu
+Animes;one piece
+Animes;dragon ball
+Animes;katekyo hitman reborn
+Animes;fairy tail
+Animes;yu yu hakusho
+Animes;samurai x
+Animes;baki
+Animes;toriko
